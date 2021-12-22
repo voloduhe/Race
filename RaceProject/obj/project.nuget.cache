@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1OBeieG4XO6A6yMokrMm9qwkz5ncWKiW3kyLWSwjKzEtYn0msIAnKeYt4VKKEpRHEsQPSP1CeEdCVnm+Dan0Pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gundo\\source\\repos\\RaceProject\\RaceProject\\RaceProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gundo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

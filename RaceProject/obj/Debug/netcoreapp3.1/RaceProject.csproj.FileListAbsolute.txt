@@ -1,0 +1,16 @@
+C:\Users\gundo\source\repos\RaceProject\RaceProject\bin\Debug\netcoreapp3.1\RaceProject.exe
+C:\Users\gundo\source\repos\RaceProject\RaceProject\bin\Debug\netcoreapp3.1\RaceProject.deps.json
+C:\Users\gundo\source\repos\RaceProject\RaceProject\bin\Debug\netcoreapp3.1\RaceProject.runtimeconfig.json
+C:\Users\gundo\source\repos\RaceProject\RaceProject\bin\Debug\netcoreapp3.1\RaceProject.runtimeconfig.dev.json
+C:\Users\gundo\source\repos\RaceProject\RaceProject\bin\Debug\netcoreapp3.1\RaceProject.dll
+C:\Users\gundo\source\repos\RaceProject\RaceProject\bin\Debug\netcoreapp3.1\RaceProject.pdb
+C:\Users\gundo\source\repos\RaceProject\RaceProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\gundo\source\repos\RaceProject\RaceProject\obj\Debug\netcoreapp3.1\RaceProject.csproj.AssemblyReference.cache
+C:\Users\gundo\source\repos\RaceProject\RaceProject\obj\Debug\netcoreapp3.1\RaceProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gundo\source\repos\RaceProject\RaceProject\obj\Debug\netcoreapp3.1\RaceProject.AssemblyInfoInputs.cache
+C:\Users\gundo\source\repos\RaceProject\RaceProject\obj\Debug\netcoreapp3.1\RaceProject.AssemblyInfo.cs
+C:\Users\gundo\source\repos\RaceProject\RaceProject\obj\Debug\netcoreapp3.1\RaceProject.csproj.CoreCompileInputs.cache
+C:\Users\gundo\source\repos\RaceProject\RaceProject\obj\Debug\netcoreapp3.1\RaceProject.csproj.CopyComplete
+C:\Users\gundo\source\repos\RaceProject\RaceProject\obj\Debug\netcoreapp3.1\RaceProject.dll
+C:\Users\gundo\source\repos\RaceProject\RaceProject\obj\Debug\netcoreapp3.1\RaceProject.pdb
+C:\Users\gundo\source\repos\RaceProject\RaceProject\obj\Debug\netcoreapp3.1\RaceProject.genruntimeconfig.cache
