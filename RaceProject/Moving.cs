@@ -2,29 +2,30 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Threading;
+using System.Threading.Tasks;
 
 namespace RaceProject
 {
     class Moving
     {
-        //ДОБАВИТЬ МНОГОПОТОЧНОСТЬ
         private Vehicle Vehicle;
-        private DateTime StartTime;
+        //private DateTime StartTime;
         private double DistanceRace;
         Random rand = new Random();
+
 
         public Moving(Vehicle vehicle, int time, double distance)
         {
             this.Vehicle = vehicle;
-            this.StartTime = new DateTime(time);
+            //this.StartTime = new DateTime(time);
             this.DistanceRace = distance;
         }
-        public void Go()
+        public void GoThread()
         {
-            while (!this.StartTime.Equals(new DateTime()))
-            { 
+        //    while (!this.StartTime.Equals(new DateTime()))
+        //    { 
                 
-            }
+        //    }
             int chance = this.Vehicle.getPiercingTireChance();
 
             while(this.DistanceRace > this.Vehicle.getCurrentDistance())

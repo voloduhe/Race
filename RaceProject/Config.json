@@ -1,0 +1,22 @@
+{
+  "vehicles": [
+    {
+      "type": "CAR",
+      "chance": 4,
+      "special": 5,
+      "speed": 10
+    },
+    {
+      "type": "TRUCK",
+      "chance": 4,
+      "special": 50,
+      "speed": 10
+    },
+    {
+      "type": "BIKE",
+      "chance": 4,
+      "special": true,
+      "speed": 10
+    }
+  ]
+}
