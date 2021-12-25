@@ -9,7 +9,7 @@ namespace RaceProject
     class Moving
     {
         private Vehicle Vehicle;
-        //private DateTime StartTime;
+        private int Time;
         private double DistanceRace;
         Random rand = new Random();
 
@@ -17,15 +17,11 @@ namespace RaceProject
         public Moving(Vehicle vehicle, int time, double distance)
         {
             this.Vehicle = vehicle;
-            //this.StartTime = new DateTime(time);
+            this.Time = time;
             this.DistanceRace = distance;
         }
         public void GoThread()
         {
-        //    while (!this.StartTime.Equals(new DateTime()))
-        //    { 
-                
-        //    }
             int chance = this.Vehicle.getPiercingTireChance();
 
             while(this.DistanceRace > this.Vehicle.getCurrentDistance())

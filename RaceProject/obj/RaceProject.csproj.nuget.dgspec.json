@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gundo\\source\\repos\\RaceProject\\RaceProject\\RaceProject.csproj": {}
+    "C:\\Users\\mutan\\source\\repos\\Race\\RaceProject\\RaceProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gundo\\source\\repos\\RaceProject\\RaceProject\\RaceProject.csproj": {
+    "C:\\Users\\mutan\\source\\repos\\Race\\RaceProject\\RaceProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gundo\\source\\repos\\RaceProject\\RaceProject\\RaceProject.csproj",
+        "projectUniqueName": "C:\\Users\\mutan\\source\\repos\\Race\\RaceProject\\RaceProject.csproj",
         "projectName": "RaceProject",
-        "projectPath": "C:\\Users\\gundo\\source\\repos\\RaceProject\\RaceProject\\RaceProject.csproj",
-        "packagesPath": "C:\\Users\\gundo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gundo\\source\\repos\\RaceProject\\RaceProject\\obj\\",
+        "projectPath": "C:\\Users\\mutan\\source\\repos\\Race\\RaceProject\\RaceProject.csproj",
+        "packagesPath": "C:\\Users\\mutan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mutan\\source\\repos\\Race\\RaceProject\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\gundo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mutan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

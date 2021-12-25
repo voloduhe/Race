@@ -58,6 +58,7 @@ namespace RaceProject
             int sleepTime = (int)(time * 1000d);
 
             Thread.Sleep(sleepTime);
+            Console.WriteLine($"{this.GetType()} ::: {CurrentDistance}");
         }
 
         public void nextPierce()
